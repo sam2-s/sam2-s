@@ -55,20 +55,6 @@ Terminal file manager
 
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-
-**[impilopharma](https://github.com/sam2-s/impilopharma)**  
-Web project  
-`TypeScript`
-
-    </td>
-    <td width="50%">
-
-&nbsp;
-
-    </td>
-  </tr>
 </table>
 
 ---
