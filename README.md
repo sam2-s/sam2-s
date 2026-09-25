@@ -55,6 +55,20 @@ Terminal file manager
 
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+
+**[Proman](https://github.com/sam2-s/Proman)**  
+Cross-platform project management — Kanban, Gantt, calendar & teams  
+`Rust` `TypeScript` `Expo`
+
+    </td>
+    <td width="50%">
+
+&nbsp;
+
+    </td>
+  </tr>
 </table>
 
 ---
